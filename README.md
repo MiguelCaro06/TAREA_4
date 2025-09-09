@@ -54,7 +54,7 @@ Un juego que combina tres modos de juego diferentes con selección de skins pers
 
 3. **Instala las dependencias**:
    ```bash
- pip install pygame
+   pip install pygame
    ```
 
 4. **Descarga las canciones**:
