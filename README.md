@@ -64,22 +64,8 @@ Un juego que combina tres modos de juego diferentes con selección de skins pers
      - `cancion2.mp3` 
      - `cancion3.mp3`
 
-5. **Estructura final de archivos**:
-   ```
-   juego_unificado/
-   ├── juego_unificado.py    # Código principal del juego
-   ├── fondo.jpg             # Imagen de fondo
-   ├── skin1.png             # Skin 1 del personaje
-   ├── skin2.png             # Skin 2 del personaje
-   ├── skin3.png             # Skin 3 del personaje
-   ├── cancion1.mp3          # Canción 1 (descargar por separado)
-   ├── cancion2.mp3          # Canción 2 (descargar por separado)
-   ├── cancion3.mp3          # Canción 3 (descargar por separado)
-   ├── requirements.txt      # Dependencias
-   └── README.md            # Este archivo
-   ```
 
-6. **Ejecuta el juego**:
+5. **Ejecuta el juego**:
    ```bash
    python juego_unificado.py
    ```
